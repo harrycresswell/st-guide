@@ -1,0 +1,64 @@
+/*------------------------------------*\
+    #COMPONENTS: HERO
+\*------------------------------------*/
+
+/* Backlink */
+
+.Backlink {
+    position: fixed;
+    top: 48px;
+    left: 48px;
+    z-index: 100;
+}
+
+.Backlink a {
+    color: white;
+    text-decoration: none;
+}
+
+/* NavToggle */
+
+.Hamburger {
+  background: #4353FF;
+  color: #fff;
+  height: 64px;
+  width: 64px;
+  display: none;
+}
+
+/* Hero */
+
+.Hero {
+  display: flex;
+}
+
+.Hero-image,
+.Hero-content {
+  width: 50%;
+}
+
+.Hero-image {
+  height: 100vh;
+  background-image: url('../biel-morro-235394-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+}
+
+.Hero-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.Hero-content-inner {
+  padding: 48px;
+}
+
+.Hero-header {
+  max-width: 587px;
+  margin: 0 auto;
+}

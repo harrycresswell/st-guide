@@ -1,0 +1,65 @@
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "Crowdfunding Campiagn Guide"
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details:
+# https://gohugo.io/getting-started/configuration/#toml-configuration
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+[permalinks]
+  chapter = "/:section/:slug/"
+  page = "/:title/"
+
+[params]
+keywords = "UX Design, UI Design, Front-end Development, Small businesses, Automation"
+description = "Design. Typography. London. Hamburg."
+strapline = "User Interface Design and Development"
+location = "London, UK"
+twitter = "@seedtribe"
+# Set Cloudinary URL for image hosting
+cloudinary_url = "https://res.cloudinary.com/seedtribe/image/upload"
+
+[author]
+  name = "Harry Cresswell"
+
+[[menu.main]]
+  name = "01 – Home"
+  url = "#"
+  weight = 5
+
+[[menu.main]]
+  name = "02 – Introduction"
+  url = "#introduction"
+  weight = 10
+
+[[menu.main]]
+  name = "03 – Fundraising Strategy"
+  url = "#fundraising"
+  weight = 15
+
+[[menu.main]]
+  name = "04 – Target Audience"
+  url = "#audience"
+  weight = 20
+
+[[menu.main]]
+  name = "05 – Build your Stories"
+  url = "#stories"
+  weight = 25
+
+[[menu.main]]
+  name = "06 – Marketing Channels"
+  url = "#marketing"
+  weight = 30
+
+[[menu.main]]
+  name = "07 – Next Steps"
+  url = "#nextsteps"
+  weight = 35
+
+[[menu.main]]
+  name = "08 – Resources"
+  url = "#resources"
+  weight = 40

@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="Main">
+  {{ range .Pages.ByDate }}
+    <section class="Chapter" id="{{ .Params.Slug }}">
+        <div class="Chapter-image" style="background-image: url('{{ .Params.featured_image }}');"></div>
+        <div class="Chapter-text">
+        {{ .Content }}
+        </div>
+    </section>
+  {{ end }}
+
+</div><!-- /.Main -->
+{{end}}
