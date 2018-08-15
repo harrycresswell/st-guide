@@ -1,0 +1,22 @@
+/*------------------------------------*\
+    #COMPONENTS: BACKLINK
+\*------------------------------------*/
+
+/* Backlink */
+
+.Backlink {
+  display: none;
+
+  @include breakpoint(md) {
+    display: block;
+    position: fixed;
+    top: 48px;
+    left: 48px;
+    z-index: 100;
+  }
+}
+
+.Backlink a {
+  color: white;
+  text-decoration: none;
+}
