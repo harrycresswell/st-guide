@@ -1,4 +1,15 @@
-// JS Goes here - ES6 supported
+$(document).ready(function(){
 
-// Say hello
-console.log("🦊 Hello! Edit me in src/js/app.js");
+  /* when .Hamburger is clicked */
+  $('.Hamburger').click(function(){
+
+    /* add .is-active to animate */
+    $(this).toggleClass('is-active');
+
+    var $body = $( 'body' ),
+        $page = $( '.Main' )
+
+        /* add class .is-animating to body */
+        $body.toggleClass( 'is-animating' )
+  });
+});
