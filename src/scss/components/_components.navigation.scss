@@ -6,11 +6,18 @@
 
 .Navigation {
   background-color: #4353FF;
+  bottom: 0;
+  display: block;
+  margin: 0;
   padding: 48px;
-  position: fixed;
-  margin: 48px;
-  z-index: 100;
-  bottom: 24px;
+  position: relative;
+
+  @include breakpoint(md) {
+    position: fixed;
+    margin: 48px;
+    z-index: 100;
+    bottom: 24px;
+  }
 }
 
 .Navigation ul {

@@ -5,22 +5,39 @@
 /* Section */
 
 .Chapter {
+  display: block;
+
+  @include breakpoint(md) {
     display: flex;
+  }
 }
 
 .Chapter div {
+  width: 100%;
+
+  @include breakpoint(md) {
     width: 50%;
+  }
 }
 
 .Chapter-text {
+  padding: 30px;
+
+  @include breakpoint(md) {
     padding: 60px;
+  }
 }
 
 .Chapter-image {
+  height: 100vw;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  top: 0;
+
+  @include breakpoint(md) {
     height: 100vh;
-    background-size: cover;
-    background-position: center;
     position: sticky;
     position: -webkit-sticky;
-    top: 0;
+  }
 }
