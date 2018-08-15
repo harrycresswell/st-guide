@@ -1,5 +1,6 @@
 {{ define "main" }}
 <div class="Main">
+  {{ partial "hero.html" . }}
   {{ range .Pages.ByDate }}
     <section class="Chapter" id="{{ .Params.Slug }}">
         <div class="Chapter-image" style="background-image: url('{{ .Params.featured_image }}');"></div>
