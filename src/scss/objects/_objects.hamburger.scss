@@ -6,14 +6,16 @@
 
 .Hamburger {
   display: block;
+  position: fixed;
   top: 0;
-  right: 24px;
+  right: 0;
   padding: 12px;
   background: #4353FF;
   color: #fff;
   height: 64px;
   width: 64px;
-
+  z-index: 200;
+  
   @include breakpoint(md) {
     display: none;
   }

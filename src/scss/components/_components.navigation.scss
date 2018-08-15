@@ -6,23 +6,43 @@
 
 .Navigation {
   background-color: #4353FF;
-  bottom: 0;
-  display: block;
+  display: none;
   margin: 0;
+  top: 0;
+  right: 0;
   padding: 48px;
-  position: relative;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
 
   @include breakpoint(md) {
+    display: block;
     position: fixed;
     margin: 48px;
+    width: 400px;
+    height: 55%;
+    overflow: auto;
+    top: unset;
+    left: 0;
+    bottom: 0;
     z-index: 100;
-    bottom: 24px;
   }
+
 }
 
 .Navigation ul {
   list-style: none;
   margin: 0;
+}
+
+.Navigation li {
+  @include margin-top(1);
+  @include margin-bottom(1);
+
+  @include breakpoint(md) {
+    margin: 0 0 .6em;
+  }
 }
 
 .Navigation a {
@@ -32,4 +52,8 @@
 
 .Navigation a:hover {
   text-decoration: underline;
+}
+
+.Navigation.is-visible {
+  display: block;
 }

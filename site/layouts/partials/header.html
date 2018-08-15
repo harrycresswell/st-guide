@@ -1,13 +1,6 @@
 <header class="Header">
-
-    <nav class="Navigation">
-      <ul>
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-        <li><a class="Header-link{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a></li>
-        {{ end }}
-      </ul>
-    </nav>
-
+    <div class="Backlink">
+        <a href="https://seedtribe.com/">&larr; Back to SeedTribe</a>
+    </div>
     {{ partial "hamburger.html" . }}
 </header>

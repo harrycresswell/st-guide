@@ -1,13 +1,24 @@
 {{ define "main" }}
+    {{ partial "navigation.html" . }}
+    {{ partial "hamburger.html" . }}
 <div class="Main">
+
+  <header class="Header">
+      <div class="Backlink">
+          <a href="https://seedtribe.com/">&larr; Back to SeedTribe</a>
+      </div>
+
+  </header>
+
   {{ partial "hero.html" . }}
+
   {{ range .Pages.ByDate }}
-    <section class="Chapter" id="{{ .Params.Slug }}">
-        <div class="Chapter-image" style="background-image: url('{{ .Params.featured_image }}');"></div>
-        <div class="Chapter-text">
-        {{ .Content }}
-        </div>
-    </section>
+  <section class="Chapter" id="{{ .Params.Slug }}">
+      <div class="Chapter-image" style="background-image: url('{{ .Params.featured_image }}');"></div>
+      <div class="Chapter-text">
+      {{ .Content }}
+      </div>
+  </section>
   {{ end }}
 
 </div><!-- /.Main -->

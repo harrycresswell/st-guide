@@ -7,23 +7,12 @@
   .Main {
     background: #fff;
     position: relative;
-    transform: translate3d( 0, -430px, 0 ); /* X, Y, Z */
-    -webkit-transform: translate3d( 0, -430px, 0 );
+    transform: translate3d( 0, 0, 0 ); /* X, Y, Z */
+    -webkit-transform: translate3d( 0, 0, 0 );
     transition: transform .25s ease-in-out;
       -webkit-transition: -webkit-transform .25s ease-in-out;
-      
+
     @include breakpoint(md) {
       transform: none;
     }
-  }
-
-  /***
-   * If the right class is present then transform
-   * the .page-container element 240px to the right.
-   */
-   .is-animating .Main {
-    transform: translate3d( 0, -70px, 0 );
-    -webkit-transform: translate3d( 0, -70px,  0 );
-    transition: transform .25s ease-in-out;
-    -webkit-transition: -webkit-transform .25s ease-in-out;
   }
