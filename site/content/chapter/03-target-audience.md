@@ -1,7 +1,7 @@
 ---
 title: Target Audience
 date: 2018-08-14 09:04:32 +0000
-featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243466/seedtribe/rolf-gelpke-463564-unsplash.jpg
+featured_image: https://res.cloudinary.com/ain/image/upload/v1534422069/seedtribe/rolf-gelpke-463564-unsplash.jpg
 slug: audience
 image_description: Tow boats meeting in the arctic
 
