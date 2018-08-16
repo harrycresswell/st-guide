@@ -33,8 +33,8 @@ fields:
   config:
     required: true
 pages:
-- site/content/chapter/05-marketing-channels.md
 - site/content/chapter/06-next-steps.md
+- site/content/chapter/05-marketing-channels.md
 - site/content/chapter/07-resources.md
 - site/content/chapter/01-introduction.md
 - site/content/chapter/03-target-audience.md

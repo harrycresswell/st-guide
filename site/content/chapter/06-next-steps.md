@@ -1,7 +1,7 @@
 ---
 title: Next Steps
 date: 2018-08-14 09:05:01 +0000
-featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243466/seedtribe/american-public-power-association-423204-unsplash.jpg
+featured_image: https://res.cloudinary.com/ain/image/upload/v1534422069/seedtribe/american-public-power-association-423204-unsplash.jpg
 slug: nextsteps
 image_description: Wind Farm at sunrise
 
