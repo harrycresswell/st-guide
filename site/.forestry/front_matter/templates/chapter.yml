@@ -32,3 +32,5 @@ fields:
     should be your slug if '#introduction‘ is set as the link in your Menu item.
   config:
     required: true
+pages:
+- site/content/chapter/04-build-your-stories.md

@@ -1,10 +1,11 @@
 ---
-title: "Build Your Stories"
-date: 2018-08-14T11:04:43+02:00
-featured_image: "https://res.cloudinary.com/harrycresswell/image/upload/v1534243466/seedtribe/thomas-richter-56177-unsplash.jpg"
-slug: "stories"
----
+title: Build Your Stories
+date: 2018-08-14 09:04:43 +0000
+featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243466/seedtribe/thomas-richter-56177-unsplash.jpg
+slug: stories
+image_description: Wind Farm
 
+---
 ## Build your stories
 
 Now you’ve realised that you have multiple audiences, you’ll realise they are also interested in different aspects of your business and motivated by different things.
