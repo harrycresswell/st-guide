@@ -1,7 +1,7 @@
 ---
 title: Marketing Channels
 date: 2018-08-14 09:04:52 +0000
-featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243466/seedtribe/chris-barbalis-98731-unsplash.jpg
+featured_image: https://res.cloudinary.com/ain/image/upload/v1534422068/seedtribe/chris-barbalis-98731-unsplash.jpg
 slug: marketing
 image_description: Urban garden
 
