@@ -1,0 +1,21 @@
+---
+label: Chapter
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The title of your section
+- type: datetime
+  name: date
+  label: Publish Date
+  description: This is the date you hit publish
+- type: file
+  label: Featured Image
+  name: featured_image
+  description: This is the main image for the Chapter
+- type: text
+  name: image_description
+  label: Image Description
+  description: Describe your featured image
