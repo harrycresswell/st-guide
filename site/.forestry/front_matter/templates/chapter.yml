@@ -7,10 +7,14 @@ fields:
   name: title
   label: Title
   description: The title of your section
+  config:
+    required: true
 - type: datetime
   name: date
   label: Publish Date
   description: This is the date you hit publish
+  config:
+    required: true
 - type: file
   label: Featured Image
   name: featured_image
@@ -19,3 +23,12 @@ fields:
   name: image_description
   label: Image Description
   description: Describe your featured image
+  config:
+    required: true
+- type: text
+  name: slug
+  label: Slug
+  description: This should match the link in your Menu item. For example, 'introduction‘
+    should be your slug if '#introduction‘ is set as the link in your Menu item.
+  config:
+    required: true
