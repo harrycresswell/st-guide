@@ -1,7 +1,7 @@
 ---
 title: Introduction
 date: 2018-08-14 09:04:04 +0000
-featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243463/seedtribe/jason-blackeye-228351-unsplash.jpg
+featured_image: https://res.cloudinary.com/ain/image/upload/v1534422065/seedtribe/jason-blackeye-228351-unsplash.jpg
 image_description: Solar panels
 slug: introduction
 
