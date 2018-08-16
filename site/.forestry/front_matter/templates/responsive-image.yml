@@ -2,4 +2,5 @@
 label: responsive image
 hide_body: false
 is_partial: true
-fields: []
+fields:
+- type: blocks
