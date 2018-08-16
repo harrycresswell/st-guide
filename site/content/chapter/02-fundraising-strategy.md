@@ -1,7 +1,7 @@
 ---
 title: Fundraising Strategy
 date: 2018-08-14 09:04:15 +0000
-featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243465/seedtribe/chuttersnap-387756-unsplash.jpg
+featured_image: https://res.cloudinary.com/ain/image/upload/v1534422069/seedtribe/chuttersnap-387756-unsplash.jpg
 slug: fundraising
 image_description: Arial view of an intersection
 
