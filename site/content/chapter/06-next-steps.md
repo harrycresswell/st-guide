@@ -1,10 +1,11 @@
 ---
-title: "Next Steps"
-date: 2018-08-14T11:05:01+02:00
-featured_image: "https://res.cloudinary.com/harrycresswell/image/upload/v1534243466/seedtribe/american-public-power-association-423204-unsplash.jpg"
-slug: "nextsteps"
----
+title: Next Steps
+date: 2018-08-14 09:05:01 +0000
+featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243466/seedtribe/american-public-power-association-423204-unsplash.jpg
+slug: nextsteps
+image_description: Wind Farm at sunrise
 
+---
 ## Next Steps
 
 As you can see, running a Crowdfunding campaign is a lot of work! But the more preparation you put into it, the smoother your campaign will be and the better chance you’ll have of:
