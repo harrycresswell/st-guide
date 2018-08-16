@@ -1,10 +1,11 @@
 ---
-title: "Fundraising Strategy"
-date: 2018-08-14T11:04:15+02:00
-featured_image: "https://res.cloudinary.com/harrycresswell/image/upload/v1534243465/seedtribe/chuttersnap-387756-unsplash.jpg"
-slug: "fundraising"
----
+title: Fundraising Strategy
+date: 2018-08-14 09:04:15 +0000
+featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243465/seedtribe/chuttersnap-387756-unsplash.jpg
+slug: fundraising
+image_description: Arial view of an intersection
 
+---
 ## ​Planning your Fundraising Strategy
 
 Before you start planning your funding campaign, it’s important to think about the strategy for hitting your target.
