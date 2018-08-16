@@ -1,7 +1,7 @@
 ---
 title: Resources
 date: 2018-08-14 10:56:53 +0000
-featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243465/seedtribe/janelle-hewines-599094-unsplash.jpg
+featured_image: https://res.cloudinary.com/ain/image/upload/v1534422068/seedtribe/janelle-hewines-599094-unsplash.jpg
 slug: resources
 image_description: 'Growth '
 
