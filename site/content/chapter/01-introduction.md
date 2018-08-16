@@ -1,11 +1,11 @@
 ---
-title: "Introduction"
-date: 2018-08-14T11:04:04+02:00
-featured_image: "https://res.cloudinary.com/harrycresswell/image/upload/v1534243463/seedtribe/jason-blackeye-228351-unsplash.jpg"
-image_description: "Solar panels"
-slug: "introduction"
----
+title: Introduction
+date: 2018-08-14 09:04:04 +0000
+featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243463/seedtribe/jason-blackeye-228351-unsplash.jpg
+image_description: Solar panels
+slug: introduction
 
+---
 ## Introduction
 
 Today many investors are looking to support businesses that have a positive impact on the world, without having to sacrifice on their returns. The global impact investment market is set to grow by 18% year-on-year to 2020 when it will be worth an estimated $307bn.

@@ -33,6 +33,7 @@ fields:
   config:
     required: true
 pages:
+- site/content/chapter/01-introduction.md
 - site/content/chapter/03-target-audience.md
 - site/content/chapter/02-fundraising-strategy.md
 - site/content/chapter/04-build-your-stories.md
