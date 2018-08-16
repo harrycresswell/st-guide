@@ -1,10 +1,11 @@
 ---
-title: "Marketing Channels"
-date: 2018-08-14T11:04:52+02:00
-featured_image: "https://res.cloudinary.com/harrycresswell/image/upload/v1534243466/seedtribe/chris-barbalis-98731-unsplash.jpg"
-slug: "marketing"
----
+title: Marketing Channels
+date: 2018-08-14 09:04:52 +0000
+featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243466/seedtribe/chris-barbalis-98731-unsplash.jpg
+slug: marketing
+image_description: Urban garden
 
+---
 ## Choose your Marketing Channels
 
 Now you have thought about the different messages that will make your various audiences tick, you have different mediums to approach them through. Below are some examples of channels you can market your pitch to.
