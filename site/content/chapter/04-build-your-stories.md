@@ -1,7 +1,7 @@
 ---
 title: Build Your Stories
 date: 2018-08-14 09:04:43 +0000
-featured_image: https://res.cloudinary.com/harrycresswell/image/upload/v1534243466/seedtribe/thomas-richter-56177-unsplash.jpg
+featured_image: https://res.cloudinary.com/ain/image/upload/v1534422069/seedtribe/thomas-richter-56177-unsplash.jpg
 slug: stories
 image_description: Wind Farm
 
