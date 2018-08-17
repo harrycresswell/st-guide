@@ -18,6 +18,9 @@ A key advantage in your campaign is your impact focus. Research by Barclays Bank
 
 Don’t forget to relate your pitch back to the UN Sustainable Development Goals framework for increased credibility.
 
+{{< cld src="v1534504486/SDGs.jpg" caption="Sustainable Development Goals" >}} 
+
+
 ### Why SeedTribe?
 
 At SeedTribe our mission is to give investors the best opportunity to tap into the impact market and use their capital to make a genuine difference to the world while generating strong returns from early-stage investments.
@@ -41,14 +44,18 @@ We have put together this Crowdfunding Campaign guide with strategy and planning
 1. **Pitch Deck:** Create a pitch that is compelling to investors both in terms of wording, business model, images and video
 2. **Build your team:** Commit to being fully dedicated to planning and running your Crowdfunding campaign during the totality of the campaign. This will involve building and focusing your team around managing the campaign and growing the business in parallel
 3. **Marketing Strategy:** Your investment target is your sales number and how you will generate the interest in your campaign is your marketing strategy and plan. So running a crowdfunding campaign has a two-fold impact which you need to plan for and take advantage of:
-  - Raising investment for your company
-  - Getting exposure to your company, including PR, customer acquisition, engagement, feedback, etc.
-4. **Plan:** your campaign carefully in advance in order to benefit from both advantages of Crowdfunding
-5. **Allocate a budget:** allocate the budget necessary to deliver your campaign activity, be it for advertising, PR, events or content creation just like you would a sales and marketing campaign. The next stage of your business depends on this investment, so be sure to dedicate the time, resources and budget to execute it correctly
-6. **Active communication:**
-  - Update your followers and investors in a timely, reactive and proactive manner, both during and after the campaign
-  - Talk to your lead investor about how they can help you with the funding campaign too. From sharing the campaign in their network, to getting involved in pitching at events or providing endorsement in press activities, there are lots of ways they can help and raise their own profile at the same time
-7. **Deliver on your promise:** in order to demonstrate that you are the best person to grow your company sustainably over the long term
+
+* Raising investment for your company
+* Getting exposure to your company, including PR, customer acquisition, engagement, feedback, etc.
+
+1. **Plan:** your campaign carefully in advance in order to benefit from both advantages of Crowdfunding
+2. **Allocate a budget:** allocate the budget necessary to deliver your campaign activity, be it for advertising, PR, events or content creation just like you would a sales and marketing campaign. The next stage of your business depends on this investment, so be sure to dedicate the time, resources and budget to execute it correctly
+3. **Active communication:**
+
+* Update your followers and investors in a timely, reactive and proactive manner, both during and after the campaign
+* Talk to your lead investor about how they can help you with the funding campaign too. From sharing the campaign in their network, to getting involved in pitching at events or providing endorsement in press activities, there are lots of ways they can help and raise their own profile at the same time
+
+1. **Deliver on your promise:** in order to demonstrate that you are the best person to grow your company sustainably over the long term
 
 ### Get in touch
 
