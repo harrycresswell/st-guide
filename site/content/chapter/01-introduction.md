@@ -18,8 +18,7 @@ A key advantage in your campaign is your impact focus. Research by Barclays Bank
 
 Don’t forget to relate your pitch back to the UN Sustainable Development Goals framework for increased credibility.
 
-{{< cld src="v1534504486/SDGs.jpg" caption="Sustainable Development Goals" >}} 
-
+{{< img src="v1534504486/SDGs.jpg" caption="Sustainable Development Goals" >}}
 
 ### Why SeedTribe?
 
