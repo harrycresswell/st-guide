@@ -38,7 +38,7 @@ name = "08 – Resources"
 url = "#resources"
 weight = 40
 [params]
-cloudinary_url = "https://res.cloudinary.com/seedtribe/image/upload"
+cloudinary_url = "https://res.cloudinary.com/ain/image/upload"
 description = "SeedTribe, Crowdfunding Guide"
 keywords = "SeedTribe Crowdfunding Campaign Guide"
 location = "London, UK"
