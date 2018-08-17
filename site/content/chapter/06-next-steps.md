@@ -10,11 +10,11 @@ image_description: Wind Farm at sunrise
 
 As you can see, running a Crowdfunding campaign is a lot of work! But the more preparation you put into it, the smoother your campaign will be and the better chance you’ll have of:
 
-- Raising funds from the right people who can help you grow the business to the next stage
+* Raising funds from the right people who can help you grow the business to the next stage
+* Getting exposure for your company, customer acquisition, brand loyalty, in order to help you grow your company organically
+* Being able to also focus on running your daily operations without feeling lost about what to do. If you just plan 3 hours a day to dedicate to the campaign, you can spend the rest of your time on operations
 
-- Getting exposure for your company, customer acquisition, brand loyalty, in order to help you grow your company organically
-
-- Being able to also focus on running your daily operations without feeling lost about what to do. If you just plan 3 hours a day to dedicate to the campaign, you can spend the rest of your time on operations
+{{< img src="v1534508671/rawpixel-252130-unsplash.jpg" alt="Funding Strategy" caption="funding strategy" >}} 
 
 So as a next step, start building your funding strategy to break down how much money you plan to raise from each channel. After that, you can start breaking it down into target audience, build your key messages and then plan the channels you’ll start marketing to.
 
