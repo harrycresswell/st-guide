@@ -14,6 +14,8 @@ The easiest way to start is to break down your fundraising target by pledge amou
 
 Let’s work through an example to help us break this down.
 
+{{< img src="v1534528348/pie.jpg" alt="Company X target fundraise" caption="Company X target fundraise" >}} 
+
 ### Example Fundraise
 
 In our example Company X is looking to raise a target of £500,000.
@@ -45,3 +47,5 @@ For the final £100,000 you will look for minimum investments of £100 from 1000
 Based on these conversion rates you will need a target audience of 667,000 to drive 3% or 20,000 visits to your funding page, converting 5% to 1000 investors. Reaching this group is likely to be based on mass marketing, social sharing and press activity and involve minimal one-on-one engagement.
 
 Remember your own funding strategy will be unique to your company, funding amount, budget and resources. If you’d like to run your strategy by us we’d be more than happy to review and provide feedback.
+
+{{< img src="v1534528197/funnel.jpg" alt="Fundraise conversion funnel" caption="Fundraise conversion funnel" >}}
