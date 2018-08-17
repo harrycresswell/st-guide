@@ -12,6 +12,9 @@ Now you’ve realised that you have multiple audiences, you’ll realise they ar
 
 This is why it’s important to build your stories, each one of them tailored to the relevant audience.
 
+{{< img src="v1534507925/ian-schneider-59335-unsplash.jpg" alt="image description" caption="Build your stories" >}}
+
+
 Key to your messaging is your business, how it impacts the world and perhaps how this relates to current news and trends. Remember the story is not just about your crowdfunding efforts. You want to excite people about what you do and then let them know that they can even own a piece of the company, by adding this message and link to your crowdfunding campaign to the end of any communications.
 
 For example, an existing customer will hopefully love your brand and want to see you be successful and share in that success, which might incentivise them to become brand ambassadors and tell their networks about your amazing offering. Whereas a local MP is more likely to wonder how your project impacts their political agenda: if you can help reduce carbon emissions, this is a great story for your local MP to back. They may not invest but they’d be proud to make your project well known through their media channels.
@@ -53,7 +56,7 @@ funding campaign must carry appropriate risk warnings.
 
 Below are some risk warnings you can use. Choose the right one for the right channel. This is critical for you to do and is not optional!
 
-- **Social Media Warning:** #investaware
-- **Short Risk Warning:** Please Note: Investments of this nature carry risks to your capital as well as potential
-rewards. Please read our [Risk Warning](#) and [Disclaimer](#) before deciding to invest.
-- **Full Risk Warning:** Can be found here: [https://www.seedtribe.com/risk-warning](https://www.seedtribe.com/risk-warning)
+* **Social Media Warning:** #investaware
+* **Short Risk Warning:** Please Note: Investments of this nature carry risks to your capital as well as potential
+  rewards. Please read our [Risk Warning](#) and [Disclaimer](#) before deciding to invest.
+* **Full Risk Warning:** Can be found here: [https://www.seedtribe.com/risk-warning](https://www.seedtribe.com/risk-warning)
