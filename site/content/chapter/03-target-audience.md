@@ -12,7 +12,8 @@ Different people might be interested in your project for
 different reasons, you will need to think about what
 makes each of those groups tick.
 
-{{< img src="v1534507891/nainoa-shizuru-80385-unsplash.jpg" alt="audience" caption="Find your target audience" >}} 
+{{< img src="v1534507890/toa-heftiba-195458-unsplash.jpg" alt="audience" caption="Find your target audience" >}} 
+
 
 Below are some of the groups of people who you might
 want to approach for investment or to help you spread
