@@ -28,9 +28,6 @@ Crowdfunding on our platform provides a fantastic opportunity for you to raise t
 
 We have put together this Crowdfunding Campaign guide with strategy and planning considerations, tactics and tips to help you hit your target in 60 days.
 
-{{< img src="v1534506944/sustainable-1024x683.jpg" alt="" caption="" >}}
-
-
 ### What do we do?
 
 1. We provide you with an FCA-approved platform that enables you to legally ask for investment into your business
@@ -40,6 +37,8 @@ We have put together this Crowdfunding Campaign guide with strategy and planning
 5. We do the Due Diligence on your business in order to make it more compelling for investors to join your journey
 6. We give you access and exposure to our network of over 170,000 registered Angel Investors globally
 7. We are the only Impactful Equity Crowdfunding platform in the UK with a focus on UN Sustainable Development Goals, meaning we are the go-to platform for investors who want to fund Impactful Businesses addressing the world’s most pressing challenges
+
+{{< img src="v1534506944/sustainable-1024x683.jpg" alt="" caption="" >}}
 
 ### What must you do?
 
