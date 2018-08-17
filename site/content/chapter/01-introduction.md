@@ -28,6 +28,9 @@ Crowdfunding on our platform provides a fantastic opportunity for you to raise t
 
 We have put together this Crowdfunding Campaign guide with strategy and planning considerations, tactics and tips to help you hit your target in 60 days.
 
+{{< img src="v1534506944/sustainable-1024x683.jpg" alt="" caption="" >}}
+
+
 ### What do we do?
 
 1. We provide you with an FCA-approved platform that enables you to legally ask for investment into your business
