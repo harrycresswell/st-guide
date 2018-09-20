@@ -2,7 +2,7 @@ baseurl = "/"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 languageCode = "en-us"
 languageLang = "en"
-title = "Crowdfunding Campiagn Guide"
+title = "Crowdfunding Campaign Guide"
 [author]
 name = "Harry Cresswell"
 [[menu.main]]
