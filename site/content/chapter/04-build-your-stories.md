@@ -51,8 +51,9 @@ This could be around your industry, the needs your product or service addresses 
 
 ### Risk Warnings
 
-Promoting the opportunity to invest in your business is classified as financial promotion by the Financial Conduct Authority (FCA). This means all communications regarding the
-funding campaign must carry appropriate risk warnings.
+Please Note: Investments of this nature carry risks to your capital as well as potential rewards. Investing in start-ups and early stage businesses involves risks, including illiquidity, lack of dividends, loss of investment and dilution, and it should be done only as part of a diversified portfolio.
+
+Promoting the opportunity to invest in your business is classified as financial promotion by the Financial Conduct Authority (FCA). This means all communications regarding the funding campaign must carry appropriate risk warnings.
 
 Below are some risk warnings you can use. Choose the right one for the right channel. This is critical for you to do and is not optional!
 
